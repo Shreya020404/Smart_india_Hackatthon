@@ -1,4 +1,3 @@
-// pages/registerPage.js
 import Image from "next/image";
 import Link from "next/link";
 import RegisterForm from "@/components/RegisterForm";
