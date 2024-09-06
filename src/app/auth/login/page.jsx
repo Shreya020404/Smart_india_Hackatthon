@@ -4,7 +4,7 @@ import Link from "next/link";
 import LoginForm from "@/components/LoginForm";
 import SocialLogin from "@/components/SocialLogin";
 
-export default function RegisterPage() {
+export default function LoginPage() {
   return (
     <main className="flex flex-col md:flex-row h-screen overflow-hidden">
       {/* Logo Section */}
