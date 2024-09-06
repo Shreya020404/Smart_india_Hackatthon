@@ -31,7 +31,7 @@ const dashboard = async () => {
 
   // Bar chart data
   const barData = {
-    labels: ["Course 1", "Course 2", "Course 3"],
+    labels: ["DSA Basics", "Advance Algorithm", "Array"],
     datasets: [
       {
         label: "Progress",
