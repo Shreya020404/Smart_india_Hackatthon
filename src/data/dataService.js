@@ -34,12 +34,12 @@ export const fetchRewards = async () => {
 
 // Example static data
 export const staticData = {
-  "2024-09-01": { score: 85, badge: "/badge1.png" },
-  "2024-09-03": { score: 150, badge: "/badge2.png" },
-  "2024-09-05": { score: 600, badge: "/badge3.png" },
-  "2024-09-02": { score: 85, badge: "/badge1.png" },
-  "2024-09-04": { score: 150, badge: "/badge2.png" },
-  "2024-09-06": { score: 600, badge: "/badge3.png" },
+  "2024-09-01": { score: 85, badge: "/badges/badge1.png" },
+  "2024-09-03": { score: 150, badge: "/badges/badge2.png" },
+  "2024-09-05": { score: 600, badge: "/badges/badge3.png" },
+  "2024-09-02": { score: 85, badge: "/badges/badge1.png" },
+  "2024-09-04": { score: 150, badge: "/badges/badge2.png" },
+  "2024-09-06": { score: 600, badge: "/badges/badge3.png" },
 };
 
 
